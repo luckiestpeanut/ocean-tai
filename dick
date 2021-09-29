@@ -4,12 +4,29 @@
    "author":"pinato",
    "cover":"https://cdn.discordapp.com/attachments/869525666008277022/892692530213306378/GGScansBL_Komyushou-Riiman-wa-Koi-no-Shikata-ga-Wakarimasen_v01_ch05_p134.png",
       "chapters":{
-         "title":"halo",
-         "volume":"2",
+      "5":{
+         "title":"Chapter 5",
+         "volume":"1",
          "groups":{
-            "PENUT":"/proxy/api/imgur/chapter/jHeiqQK/"
+            "PINATE":"/proxy/api/imgur/chapter/YjSmZsA/"
          },
-         "last_updated":"1632904227"
+         "last_updated":"1626713100"
+      },
+       "5.5":{
+         "title":"Extra",
+         "volume":"1",
+         "groups":{
+            "PINATE":"/proxy/api/imgur/chapter/j0kAhIm/"
+         },
+         "last_updated":"1626713100"
+         },
+       "6":{
+         "title":"Extra zoro mentimun",
+         "volume":"1",
+         "groups":{
+            "PINATE":"/proxy/api/imgur/chapter/jHeiqQK/"
+         },
+         "last_updated":"1632905444"
       }
    }
 }
